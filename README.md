@@ -10,4 +10,4 @@ At GymGo, we believe that fitness is more than just a routine—it's a lifestyle
 
 ## Online Demo
 
-💻 [Capitals Temp online Demo](https://capitalstemp.vercel.app//)
+💻 [GymGo online Demo](https://gymgo.vercel.app/)
